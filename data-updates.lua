@@ -40,7 +40,7 @@ khaoslib_recipe:load("space-science-pack")
 if mods["planet-muluna"] then
   khaoslib_recipe:load("space-science-pack-cubic")
     :remove_unlock("cube-mastery-4")
-    :add_unlock("advanced-space-science-pack")
+    :add_unlock("advanced-space-science-pack-cubic")
     :commit()
 
   khaoslib_recipe:load("space-science-pack-muluna")

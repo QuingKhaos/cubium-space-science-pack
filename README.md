@@ -5,3 +5,5 @@
 # Cubic Space Science Pack
 
 Adds a cubic space science pack to Cubium.
+
+Supports changes to the space science pack by [Muluna](https://mods.factorio.com/mod/planet-muluna).
