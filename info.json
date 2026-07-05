@@ -1,12 +1,17 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "cubium-space-science-pack",
+  "title": "Cubic Space Science Pack",
+  "description": "Adds a cubic space science pack to Cubium.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77",
+    "space-age >= 2.0.77",
+
+    "khaoslib >= 1.3.0",
+
+    "cubium >= 1.0.28"
   ]
 }
