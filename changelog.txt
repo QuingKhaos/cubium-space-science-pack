@@ -3,3 +3,5 @@ Version: 1.0.0
 Date: 2026-07-05
   Features:
     - Add a cubic space science pack to Cubium.
+  Compatibility:
+    - Add support for Muluna's modifications to the space science pack.
