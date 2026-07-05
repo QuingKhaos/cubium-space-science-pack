@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2026-07-05
+  Compatibility:
+    - Add the cubic science pack productivity bonus to Mulana's advanced space research too.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2026-07-05
   Compatibility:
