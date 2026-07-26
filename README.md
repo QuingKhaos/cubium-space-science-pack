@@ -2,4 +2,4 @@
 
 # [DEPRECATED] Cubic Space Science Pack
 
-Functiontiy migrated to [Cubium and More](https://mods.factorio.com/mod/cubium-and-more).
+Functionality migrated to [Cubium and More](https://mods.factorio.com/mod/cubium-and-more).
